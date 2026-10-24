@@ -7,7 +7,6 @@ In this project, multiple controlling and path planning modules were designed, i
 
 Below shows a depth model (Depth Anything V2) perfromance.
 以下图片展示了深度模型的工作表现。
-<img width="1096" height="1488" alt="image" src="https://github.com/user-attachments/assets/f793af5e-8760-4ea6-8f39-309297c86a88" />
 <img width="370" height="500" alt="depthAnythingV2_testOnF1Car_1" src="https://github.com/user-attachments/assets/0df912c9-8dd0-4cb3-a4c6-1fcaacce0506" />
 
 Following are the images from the F1TENTH races and RVIZ2 interfaces.

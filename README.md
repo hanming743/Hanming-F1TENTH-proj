@@ -5,6 +5,11 @@ The platform is a RC vehicle with one 2D lidar and a computational unit.
 In this project, multiple controlling and path planning modules were designed, including wall-following, gap following, pure-pursuit, SLAM, particle filter, and vision-model based method (With depth anything.)
 本项目使用了多种自动控制，导航，路径规划方案来控制小车在复杂的赛道内完全自动行进。包括了wall-following, gap following, pure-pursuit, SLAM, particle filter等方案，以及一个基于Depth Anything深度预测大模型等视觉自动驾驶避障方案。
 
+Below shows a depth model (Depth Anything V2) perfromance.
+以下图片展示了深度模型的工作表现。
+<img width="1096" height="1488" alt="image" src="https://github.com/user-attachments/assets/f793af5e-8760-4ea6-8f39-309297c86a88" />
+<img width="370" height="500" alt="depthAnythingV2_testOnF1Car_1" src="https://github.com/user-attachments/assets/0df912c9-8dd0-4cb3-a4c6-1fcaacce0506" />
+
 Following are the images from the F1TENTH races and RVIZ2 interfaces.
 以下是比赛过程中的一些影像记录，包括RViz2的界面。
 <img width="1170" height="2074" alt="IMG_6375" src="https://github.com/user-attachments/assets/5f45ba21-3115-41ac-99c5-8221f639db0e" />

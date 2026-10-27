@@ -5,6 +5,10 @@ The platform is a RC vehicle with one 2D lidar and a computational unit.
 In this project, multiple controlling and path planning modules were designed, including wall-following, gap following, pure-pursuit, SLAM, particle filter, and vision-model based method (With depth anything.)
 本项目使用了多种自动控制，导航，路径规划方案来控制小车在复杂的赛道内完全自动行进。包括了wall-following, gap following, pure-pursuit, SLAM, particle filter等方案，以及一个基于Depth Anything深度预测大模型等视觉自动驾驶避障方案。
 
+Below shows the simulation of SLAM map building and particle filter localization.以下图片展示了SLAM建图和粒子滤波定位在模拟器中的表现。
+<img width="673" height="439" alt="截屏2026-10-27 下午1 45 39" src="https://github.com/user-attachments/assets/96b26ac4-d409-42fe-952a-63ee30f5c1fd" />
+
+
 Below shows a depth model (Depth Anything V2) perfromance.
 以下图片展示了深度模型的工作表现。
 <img width="370" height="500" alt="depthAnythingV2_testOnF1Car_1" src="https://github.com/user-attachments/assets/0df912c9-8dd0-4cb3-a4c6-1fcaacce0506" />
